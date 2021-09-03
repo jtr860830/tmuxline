@@ -5,7 +5,7 @@
 Add plugin to the list of TPM plugins in `.tmux.conf`:
 
 ```
-set -g @plugin 'odedlaz/tmux-onedark-theme'
+set -g @plugin 'jtr860830/tmuxline'
 ```
 
 Hit `prefix + I` to fetch the plugin and source it.
@@ -15,7 +15,7 @@ Hit `prefix + I` to fetch the plugin and source it.
 Clone the repo:
 
 ```
-$ git clone https://github.com/odedlaz/tmux-onedark-theme /a/path/you/choose
+$ git clone https://github.com/jtr860830/tmuxline.git /a/path/you/choose
 ```
 
 Add this line to the bottom of `.tmux.conf`:
