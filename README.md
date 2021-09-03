@@ -21,7 +21,7 @@ $ git clone https://github.com/jtr860830/tmuxline.git /a/path/you/choose
 Add this line to the bottom of `.tmux.conf`:
 
 ```
-run-shell /a/path/you/choose tmux-onedark-theme.tmux
+run-shell /a/path/you/choose tmuxline.tmux
 ```
 
 Reload TMUX environment (type this in terminal)
