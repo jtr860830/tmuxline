@@ -1,5 +1,7 @@
 # tmuxline
 
+![preview](https://raw.githubusercontent.com/jtr860830/tmuxline/main/preview.png)
+
 ### Installation with [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm) (recommended)
 
 Add plugin to the list of TPM plugins in `.tmux.conf`:
